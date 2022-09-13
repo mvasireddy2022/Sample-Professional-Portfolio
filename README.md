@@ -8,9 +8,7 @@
   No installation required
 
 ## Usage
-  - [HTML code] (index.html)
-  - [CSS code] (assets/style.css)
-  - Website: 
+  - Website: https://mvasireddy2022.github.io/Sample-Professional-Portfolio/
   ![Website screenshot](assets/images/Sample-Portfolio.png)
 
 ## License
